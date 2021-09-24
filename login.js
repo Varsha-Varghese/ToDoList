@@ -22,6 +22,6 @@ function loginvalidate(redirect){
 }
 function redirect(res){
     if(res==0)
-    window.open('https://varsha-varghese.github.io/ToDoList//todo.html');
+    window.open('https://varsha-varghese.github.io/ToDoList/todo.html');
 }
      
