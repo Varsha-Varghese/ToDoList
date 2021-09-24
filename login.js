@@ -22,6 +22,6 @@ function loginvalidate(redirect){
 }
 function redirect(res){
     if(res==0)
-    window.open('http://127.0.0.1:5500/todoapp/todo.html');
+    window.open('https://varsha-varghese.github.io/ToDoList//todo.html');
 }
      
